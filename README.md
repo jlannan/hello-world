@@ -1,2 +1,2 @@
 # hello-world
-hello-world repository
+Hello world! Welcome to Jamrock.
